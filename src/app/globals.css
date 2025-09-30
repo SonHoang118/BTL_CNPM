@@ -16,6 +16,7 @@
 *{
   font-weight: bold;
   box-sizing: border-box;
+  background-color: chartreuse;
 }
 body{
   color: #535353;
